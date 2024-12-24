@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header{
+    padding: 50px 0;
+    border-bottom: 1px solid #BCAAAA;
+    box-shadow: 0px 4px 8.7px 0px #00000040;
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    list-style: none;
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    color: #BCAAAA;
+font-size: 24px;
+font-weight: 600;
+line-height: 29.05px;
+padding-bottom: 15px;
+}
+
+nav ul li a:hover{
+    color: #EF400F;
+    border-bottom: 3px solid #EF400F;
+}
+.header__right{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.header__btn{
+font-size: 24px;
+font-weight: 600;
+line-height: 29.05px;
+color: #EF400F;
+     padding: 16px 24px;
+     border: 3px solid #EF400F;
+border-radius: 20px;
+background: white;
+}
+
+
+main{
+    padding: 60px 0;
+    height: 100px;
+}
+.hero__top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero__top div{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.Magazin i{
+    font-size: 36px;
+}
+.Magazin h2{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.41px;
+color: #0D0C5C;
+}
+
+input{
+    width: 386px;
+    height: 63px;
+    background: #000;
+    color: white;
+    padding: 17px 21px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.herp__btn{
+font-size: 24px;
+font-weight: 400;
+line-height: 29.05px;
+text-align: left;
+color: white;
+padding: 15px 32px;
+background-color: #0D0C5C;
+border-radius: 20px;
+}
+
+.historiy i{
+    color: #EF400F;
+    font-size: 36px;
+}
+
+.historiy h3{
+    color: #EF400F;
+    font-size: 30px;
+}
+
+.card{
+    width: 290px;
+    height: 290px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 13.3px 0px #00000040;
+    text-align: center;
+    padding: 20px;
+}
+.card__ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    gap: 20px;
+}
+
+.card h3{
+    margin: 15px 0;
+}
+
+.red .cotainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ h4{
+color: #000;
+font-size: 16px;
+font-weight: 300;
+line-height: 19.36px;
+text-align: left;
+}
+.he {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+}
+
+
+.a{
+    border-top: 1px solid #BCAAAA;
+    margin-top: 45px;
+    box-shadow: 0px 4px 17.9px 0px #00000040;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
